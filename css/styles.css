@@ -28,19 +28,18 @@ body{
 
 
 }
-.nav-link,:active 
-.nav-link:hover{
+.card-body{
+    text-decoration-color: blue;
 
-    color: #4981b3!important;
- } 
- /*--------CAROUSEL-------*/
-
-#carousel{
-    box-shadow: 0.1rem .1rem  rgb(0, 0,0 .1)
 }
- 
-.bg-primary{
-    transition: all 1s ease;
-    
+.h3{
+    background-color: blue;
 }
+.footer{
+    border-top:lpx solid blue;
+    text-align: center;
+    height: 100px;
+    padding: 30px;
 
+
+}
